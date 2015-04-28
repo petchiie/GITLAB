@@ -2,4 +2,5 @@
 main()
 {
     printf("Bog Bog !!");
+    pritnf("kab kab !!");
 }
