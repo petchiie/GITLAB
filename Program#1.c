@@ -1,5 +1,6 @@
 #include<stdio.h>
 main()
 {
-    printf("Bog Bog !!");
+    printf("Meaw Meaw !!");
+    printf("Kak Kak !!");
 }
